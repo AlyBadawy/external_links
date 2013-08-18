@@ -21,3 +21,6 @@ In the webpages, where you want to use this plug-in, add links to both jQuery an
 
 then place the `js/com.alybadawy.external_links.js` file in your JavaScript assets folder.
 
+### Read more?
+
+want to read more about this plug-in and its history, here is a link to my blog post: [Open external links in new tab using JQuery](http://alybadawy.com/web/2013/08/17/open-external-links-in-new-tab-using-jquery/)
