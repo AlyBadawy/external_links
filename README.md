@@ -9,6 +9,7 @@ This is a jQuery plug-in to override the default behavior of all external links 
 #### Requirements:
 
 This plug-in requires that you use jQuery.
+
 So, make sure your web page includes a link to jQuery before including this plug-in.
 
 #### How to use:
