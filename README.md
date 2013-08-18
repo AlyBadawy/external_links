@@ -1,4 +1,4 @@
-external_links
+Open external links in new tab
 ==============
 
 ### Open external links in new tab using JQuery
@@ -9,7 +9,6 @@ This is a jQuery plug-in to override the default behavior of all external links 
 #### Requirements:
 
 This plug-in requires that you use jQuery.
-
 So, make sure your web page includes a link to jQuery before including this plug-in.
 
 #### How to use:
@@ -23,4 +22,5 @@ then place the `js/com.alybadawy.external_links.js` file in your JavaScript asse
 
 ### Read more?
 
-want to read more about this plug-in and its history, here is a link to my blog post: [Open external links in new tab using JQuery](http://alybadawy.com/web/2013/08/17/open-external-links-in-new-tab-using-jquery/)
+want to read more about this plug-in and its history, here is a link to my blog post:
+[Open external links in new tab using JQuery](http://alybadawy.com/web/2013/08/17/open-external-links-in-new-tab-using-jquery/)
